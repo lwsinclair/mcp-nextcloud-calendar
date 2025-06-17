@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/cheffromspace-mcp-nextcloud-calendar-badge.png)](https://mseep.ai/app/cheffromspace-mcp-nextcloud-calendar)
+
 # MCP Nextcloud Calendar
 
 [![npm version](https://img.shields.io/npm/v/mcp-nextcloud-calendar.svg)](https://www.npmjs.com/package/mcp-nextcloud-calendar)
